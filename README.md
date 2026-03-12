@@ -42,5 +42,7 @@ tail -f var/log/cowrie/cowrie.log
 The honeypot records attacker login attempts and commands used during attacks.
 
 ## Author
-Kuldeep Giri  
-Cyber Security Student – UTU
+Kuldeep Giri
+Catherine
+Rinku Shamrao Dhole
+Ben joseph
