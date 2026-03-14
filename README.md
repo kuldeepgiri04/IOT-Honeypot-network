@@ -159,7 +159,7 @@ The honeypot records attacker login attempts and commands used during attacks.
 ![SSH Login](ssh-login-attempt.png)
 
 ### Cowrie Capturing Attack Logs
-![Cowrie Logs](cowrie-logs.png)
+![Cowrie Logs](cowrie-log.png)
 
 ## Author
 Catherine
