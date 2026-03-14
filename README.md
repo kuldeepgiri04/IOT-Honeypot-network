@@ -150,6 +150,17 @@ tail -f var/log/cowrie/cowrie.log
 ## Example Attack Detection
 The honeypot records attacker login attempts and commands used during attacks.
 
+## Week 2 – Honeypot Attack Capture
+
+### Cowrie Honeypot Running
+![Cowrie Running](cowrie-running.png)
+
+### SSH Login Attempt Simulation
+![SSH Login](ssh-login-attempt.png)
+
+### Cowrie Capturing Attack Logs
+![Cowrie Logs](cowrie-logs.png)
+
 ## Author
 Catherine
 
