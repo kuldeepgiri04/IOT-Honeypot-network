@@ -167,7 +167,7 @@ Catherine
 
 ##  Project Progress
 
-- Week 1 - Setup & Screenshots](WEEK1.md)
-- Week 2 - IoT Deception Honeypot Network
+- Week 1 - [Setup & Screenshots](WEEK1.md)
+- Week 2 - [Honeypot Attack Capture](README.md) 
     
 >>>>>>> 7257254149be35ddf916f5e262d71929a9c2ac90
