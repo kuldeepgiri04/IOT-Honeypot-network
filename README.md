@@ -165,6 +165,9 @@ The honeypot records attacker login attempts and commands used during attacks.
 Catherine
 
 
+##  Project Progress
 
+- Week 1 - Setup & Screenshots](WEEK1.md)
+- Week 2 - IoT Deception Honeypot Network
     
 >>>>>>> 7257254149be35ddf916f5e262d71929a9c2ac90
